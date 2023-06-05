@@ -8,7 +8,7 @@
 </div>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermCristia&theme=gotham)
 
 
 
