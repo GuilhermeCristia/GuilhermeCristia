@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Cristian;I'am+19+years+old;I+ev+from+São+Luís,+MA;I+study+Information+Systems+at+Faculdade+CEST;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Cristian;I'am+20+years+old;I+ev+from+São+Luís,+MA;I+study+Information+Systems+at+Faculdade+CEST;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCristia&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00bfbf&text_color=00FFFF&bg_color=0d1117" alt="Guilherme cristian github stats" /> 
